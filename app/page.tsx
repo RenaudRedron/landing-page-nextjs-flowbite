@@ -1,6 +1,7 @@
 import Content from "@/components/Content";
 import CtaButton from "@/components/CtaButton";
 import Description from "@/components/Description";
+import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import ListFeature from "@/components/ListFeature";
@@ -16,6 +17,7 @@ export default function Home() {
       <Description />
       <Content />
       <CtaButton />
+      <Footer />
     </main>
   );
 }
