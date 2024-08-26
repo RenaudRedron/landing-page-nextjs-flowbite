@@ -1,5 +1,6 @@
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
+import ListFeature from "@/components/ListFeature";
 import LogoCompany from "@/components/LogoCompany";
 
 export default function Home() {
@@ -8,6 +9,7 @@ export default function Home() {
       <Header />
       <Hero />
       <LogoCompany />
+      <ListFeature />
     </main>
   );
 }
