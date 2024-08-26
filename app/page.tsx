@@ -1,3 +1,4 @@
+import Description from "@/components/Description";
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import ListFeature from "@/components/ListFeature";
@@ -10,6 +11,7 @@ export default function Home() {
       <Hero />
       <LogoCompany />
       <ListFeature />
+      <Description />
     </main>
   );
 }
