@@ -1,7 +1,6 @@
 ## Prérequis
 
 * Node.js (version 20.15.0 ou supérieure)
-* PostgreSQL 16 (installé et configuré)
 * Yarn ou npm
 
 ## Installation
@@ -10,7 +9,7 @@
 
 ```bash
 git clone https://github.com/RenaudRedron/landing-page-nextjs-flowbite
-cd monapp
+cd landing-page-nextjs-flowbite
 ```
 2. Installez les dépendances :
 
